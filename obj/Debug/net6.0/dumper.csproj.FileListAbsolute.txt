@@ -1,0 +1,15 @@
+C:\Users\coryc\OneDrive\Desktop\CSE 210\Jumper\dumper\obj\Debug\net6.0\dumper.csproj.AssemblyReference.cache
+C:\Users\coryc\OneDrive\Desktop\CSE 210\Jumper\dumper\obj\Debug\net6.0\dumper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coryc\OneDrive\Desktop\CSE 210\Jumper\dumper\obj\Debug\net6.0\dumper.AssemblyInfoInputs.cache
+C:\Users\coryc\OneDrive\Desktop\CSE 210\Jumper\dumper\obj\Debug\net6.0\dumper.AssemblyInfo.cs
+C:\Users\coryc\OneDrive\Desktop\CSE 210\Jumper\dumper\obj\Debug\net6.0\dumper.csproj.CoreCompileInputs.cache
+C:\Users\coryc\OneDrive\Desktop\CSE 210\Jumper\dumper\bin\Debug\net6.0\dumper.exe
+C:\Users\coryc\OneDrive\Desktop\CSE 210\Jumper\dumper\bin\Debug\net6.0\dumper.deps.json
+C:\Users\coryc\OneDrive\Desktop\CSE 210\Jumper\dumper\bin\Debug\net6.0\dumper.runtimeconfig.json
+C:\Users\coryc\OneDrive\Desktop\CSE 210\Jumper\dumper\bin\Debug\net6.0\dumper.dll
+C:\Users\coryc\OneDrive\Desktop\CSE 210\Jumper\dumper\bin\Debug\net6.0\dumper.pdb
+C:\Users\coryc\OneDrive\Desktop\CSE 210\Jumper\dumper\obj\Debug\net6.0\dumper.dll
+C:\Users\coryc\OneDrive\Desktop\CSE 210\Jumper\dumper\obj\Debug\net6.0\refint\dumper.dll
+C:\Users\coryc\OneDrive\Desktop\CSE 210\Jumper\dumper\obj\Debug\net6.0\dumper.pdb
+C:\Users\coryc\OneDrive\Desktop\CSE 210\Jumper\dumper\obj\Debug\net6.0\dumper.genruntimeconfig.cache
+C:\Users\coryc\OneDrive\Desktop\CSE 210\Jumper\dumper\obj\Debug\net6.0\ref\dumper.dll

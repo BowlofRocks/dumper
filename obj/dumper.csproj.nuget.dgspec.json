@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CSE 210\\dumper\\dumper\\dumper.csproj": {}
+    "C:\\Users\\coryc\\OneDrive\\Desktop\\CSE 210\\Jumper\\dumper\\dumper.csproj": {}
   },
   "projects": {
-    "C:\\CSE 210\\dumper\\dumper\\dumper.csproj": {
+    "C:\\Users\\coryc\\OneDrive\\Desktop\\CSE 210\\Jumper\\dumper\\dumper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CSE 210\\dumper\\dumper\\dumper.csproj",
+        "projectUniqueName": "C:\\Users\\coryc\\OneDrive\\Desktop\\CSE 210\\Jumper\\dumper\\dumper.csproj",
         "projectName": "dumper",
-        "projectPath": "C:\\CSE 210\\dumper\\dumper\\dumper.csproj",
-        "packagesPath": "C:\\Users\\apaul\\.nuget\\packages\\",
-        "outputPath": "C:\\CSE 210\\dumper\\dumper\\obj\\",
+        "projectPath": "C:\\Users\\coryc\\OneDrive\\Desktop\\CSE 210\\Jumper\\dumper\\dumper.csproj",
+        "packagesPath": "C:\\Users\\coryc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\coryc\\OneDrive\\Desktop\\CSE 210\\Jumper\\dumper\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\apaul\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\coryc\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
